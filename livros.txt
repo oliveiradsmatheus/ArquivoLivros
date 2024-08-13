@@ -1,0 +1,70 @@
+ZIVIANI, Nivio|Projeto de algoritmos: com implementacoes em Pascal e C|Thomson|2010|660
+CELES, Waldemar; CERQUEIRA, Renato; RANGEL NETTO, Jose Lucas Mourao|Introducao a estruturas de dados: com tecnicas de programacao em C|Elsevier|2004|294
+PEREIRA, Silvio do Lago|Estruturas de dados fundamentais: conceitos e aplicacoes|Erica|2008|264
+TENENBAUM, Aaron M.; LANGSAM, Yedidyah; AUGENSTEIN, Moshe; SOUZA, Teresa Cristina Felix|Estruturas de dados usando C|Makron Books|1995|884
+SANTOS, Clesio Saraiva; FURTADO, Antonio; VELOSO, Paulo A. S.|Estruturas de dados|Campus|1986|228
+SALIBA, Walter Luiz Caram; ASSUMPCAO FILHO, Milton Mira de|Tecnicas de programacao: uma abordagem estruturada|Makron Books|1993|141
+SZWARCFITER, Jayme Luiz; MARKENZON, Lilian|Estruturas de dados e seus algoritmos|Livros Tecnicos e Cientificos|1994|320
+WIRTH, Niklaus; CHENG, Mei Lee|Algoritmos e estruturas de dados|Prentice-Hall do Brasil|1989|225
+TANENBAUM, Andrew S.; WETHERALL, David J.|Redes de Computadores|Pearson|2011|960
+PRESSMAN, Roger S.|Engenharia de Software|McGraw-Hill|2014|984
+SOMMERVILLE, Ian|Engenharia de Software|Pearson|2011|744
+SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg|Operating System Concepts|Wiley|2018|976
+CORMEN, Thomas H.; LEISERSON, Charles E.; RIVEST, Ronald L.; STEIN, Clifford|Introduction to Algorithms|MIT Press|2009|1312
+GOODRICH, Michael T.; TAMASSIA, Roberto; GOLDWASSER, Michael H.|Data Structures and Algorithms in Java|Wiley|2014|736
+WEISS, Mark Allen|Data Structures and Algorithm Analysis in C++|Pearson|2013|656
+KERNIGHAN, Brian W.; RITCHIE, Dennis M.|The C Programming Language|Prentice Hall|1988|272
+GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John|Design Patterns: Elements of Reusable Object-Oriented Software|Addison-Wesley|1994|395
+STALLINGS, William|Computer Organization and Architecture|Pearson|2016|800
+HENNESSY, John L.; PATTERSON, David A.|Computer Architecture: A Quantitative Approach|Morgan Kaufmann|2017|936
+ELMASRI, Ramez; NAVATHE, Shamkant B.|Fundamentals of Database Systems|Pearson|2015|1272
+TOLKIEN, J.R.R.|The Hobbit|HarperCollins|1937|310
+TOLKIEN, J.R.R.|The Lord of the Rings: The Fellowship of the Ring|HarperCollins|1954|423
+LEWIS, C.S.|The Lion, the Witch and the Wardrobe|HarperCollins|1950|206
+MARTIN, George R.R.|A Game of Thrones|Bantam Books|1996|694
+RIORDAN, Rick|The Lightning Thief|Disney-Hyperion|2005|377
+HAMILTON, Edith|Mythology: Timeless Tales of Gods and Heroes|Little, Brown and Company|1942|497
+HAMILTON, Edith|The Greek Way|Norton|1930|272
+GRAVES, Robert|The Greek Myths|Penguin Books|1955|784
+GAIMAN, Neil|American Gods|HarperCollins|2001|465
+SANDERSON, Brandon|Mistborn: The Final Empire|Tor Books|2006|541
+ROTHFUSS, Patrick|The Name of the Wind|DAW Books|2007|662
+LE GUIN, Ursula K.|A Wizard of Earthsea|Parnassus Press|1968|183
+GABALDON, Diana|Outlander|Delacorte Press|1991|896
+ERIKSON, Steven|Gardens of the Moon|Bantam Books|1999|666
+PRATCHETT, Terry|Guards! Guards!|Corgi Books|1989|376
+JORDAN, Robert|The Eye of the World|Tor Books|1990|814
+SAPKOWSKI, Andrzej|Blood of Elves|Editora XYZ|2008|320
+SAPKOWSKI, Andrzej|Time of Contempt|Editora XYZ|2010|350
+SAPKOWSKI, Andrzej|Baptism of Fire|Editora XYZ|2013|400
+SAPKOWSKI, Andrzej|The Tower of the Swallow|Editora XYZ|2016|380
+SAPKOWSKI, Andrzej|Lady of the Lake|Editora XYZ|2019|420
+SAPKOWSKI, Andrzej|Season of Storms|Editora XYZ|2018|300
+SAPKOWSKI, Andrzej|The Last Wish|Editora XYZ|2007|250
+SAPKOWSKI, Andrzej|Sword of Destiny|Editora XYZ|2009|280
+SAPKOWSKI, Andrzej|The Malady and Other Stories|Editora XYZ|2014|220
+SAPKOWSKI, Andrzej|The World of the Witcher|Editora XYZ|2015|180
+ROWLING, J.K.|Harry Potter and the Philosopher's Stone|Bloomsbury|1997|320
+ROWLING, J.K.|Harry Potter and the Chamber of Secrets|Bloomsbury|1998|352
+ROWLING, J.K.|Harry Potter and the Prisoner of Azkaban|Bloomsbury|1999|368
+ROWLING, J.K.|Harry Potter and the Goblet of Fire|Bloomsbury|2000|640
+ROWLING, J.K.|Harry Potter and the Order of the Phoenix|Bloomsbury|2003|768
+ROWLING, J.K.|Harry Potter and the Half-Blood Prince|Bloomsbury|2005|608
+ROWLING, J.K.|Harry Potter and the Deathly Hallows|Bloomsbury|2007|784
+LUCAS, George|Star Wars: Episode IV - A New Hope|Del Rey|1976|320
+LUCAS, George|Star Wars: Episode V - The Empire Strikes Back|Del Rey|1980|352
+LUCAS, George|Star Wars: Episode VI - Return of the Jedi|Del Rey|1983|384
+LUCAS, George|Star Wars: Episode I - The Phantom Menace|Del Rey|1999|416
+LUCAS, George|Star Wars: Episode II - Attack of the Clones|Del Rey|2002|432
+LUCAS, George|Star Wars: Episode III - Revenge of the Sith|Del Rey|2005|448
+LUCAS, George|Star Wars: Heir to the Empire|Bantam Spectra|1991|432
+LUCAS, George|Star Wars: Dark Force Rising|Bantam Spectra|1992|448
+LUCAS, George|Star Wars: The Last Command|Bantam Spectra|1993|480
+GIBSON, William|Neuromancer|Ace Books|1984|271
+GIBSON, William|Count Zero|Ace Books|1986|308
+GIBSON, William|Mona Lisa Overdrive|Ace Books|1988|292
+STERLING, Bruce|Schismatrix|Arbor House|1985|304
+CADIGAN, Pat|Synners|Bantam Books|1991|384
+STEPHENSON, Neal|Snow Crash|Bantam Books|1992|470
+STEPHENSON, Neal|The Diamond Age|Bantam Books|1995|455
+RUSSELL, Mary|The Sparrow|Del Rey Books|1996|431
